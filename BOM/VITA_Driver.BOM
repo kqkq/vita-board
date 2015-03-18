@@ -1,0 +1,34 @@
+Vita's Raising - A smart flowerpot connected with the Internet  Revised: Monday, March 16, 2015
+Driver Board          Revision: A1
+
+
+
+
+
+
+
+Bill Of Materials          March 18,2015      17:54:04	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	CON7	CON RJ45
+2	2	CON8,J11	12V
+3	2	C5,C6	100nF
+4	1	C7	47uF
+5	5	D6,D7,D9,D11,D13	LED
+6	3	D8,D10,D12	M7
+7	1	J3	LED_ARRAY
+8	1	J4	220V_FAN
+9	1	J5	12V_FAN
+10	1	J6	220V_PUMP
+11	1	J7	12V_PUMP
+12	1	J8	220V_HEATER
+13	1	J9	220V
+14	1	J10	12V_HEATER
+15	3	LS1,LS2,LS3	12V SPDT
+16	4	Q1,Q2,Q3,Q4	IRF7413 N-MOS
+17	5	R12,R14,R16,R18,R20	4.7k
+18	4	R13,R15,R17,R19	100k
+19	4	TP1,TP2,TP3,TP4	T POINT R
+20	2	U5,U6	LM393N

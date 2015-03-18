@@ -1,0 +1,16 @@
+\t (00:00:01) allegro 16.6 S044 (v16-6-112DK) Windows 32
+\t (00:00:01)     Journal start - Wed Mar 18 16:39:39 2015
+\t (00:00:01)         Host=KUANGQI-PC User=KuangQi Pid=5792 CPUs=4
+\t (00:00:01) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe D:\Desktop\vita\sch&pcb\VitaBoard.brd
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/Desktop/vita/sch&pcb/VitaBoard.brd
+\t (00:00:03) Grids are drawn 40.00, 40.00 apart for enhanced viewability.
+\i (00:00:03) trapsize 3079
+\i (00:00:03) trapsize 3001
+\i (00:00:03) trapsize 3092
+\t (00:00:03) Grids are drawn 40.00, 40.00 apart for enhanced viewability.
+\i (00:00:03) trapsize 3092
+\i (00:00:04) generaledit 
+\i (00:00:04) exit 
+\t (00:00:04)     Journal end - Wed Mar 18 16:39:42 2015
